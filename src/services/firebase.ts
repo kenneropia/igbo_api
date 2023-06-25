@@ -13,12 +13,12 @@ interface FirebaseConfig {
 }
 
 const STAGING_FIREBASE_CONFIG: FirebaseConfig = {
-  apiKey: 'AIzaSyBk96Lx1weQcOliPZfc3w2aw1Az8n16E8o',
-  authDomain: 'igbo-api-staging-99a67.firebaseapp.com',
-  projectId: 'igbo-api-staging-99a67',
-  storageBucket: 'igbo-api-staging-99a67.appspot.com',
-  messagingSenderId: '225886570045',
-  appId: '1:225886570045:web:06ec83640f8868f5a04c54',
+  apiKey: 'AIzaSyBT-aJ42H2qVeTAtHhKZAeOfI6P99_rUK0',
+  authDomain: 'fastfeedback-9e6c3.firebaseapp.com',
+  projectId: 'fastfeedback-9e6c3',
+  storageBucket: 'fastfeedback-9e6c3.appspot.com',
+  messagingSenderId: '628420345315',
+  appId: '1:628420345315:web:1a75d4e1bf0cfc8faab4d6',
 };
 
 const PRODUCTION_FIREBASE_CONFIG: FirebaseConfig = {
